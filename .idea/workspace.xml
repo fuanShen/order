@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="aefcc584-9382-418f-a4e3-9ae5cb9e4447" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../pythonStudy/charter1/0625.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonStudy/charter1/0625_1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonStudy/charter1/0702.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonStudy/charter1/0702_1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonStudy/charter1/0702_2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonStudy/charter1/0705.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonStudy/charter1/0707.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonStudy/charter1/0707_1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonStudy/charter1/0709.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonStudy/charter1/0709_1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonStudy/charter1/0712.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonStudy/charter1/0712_1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonStudy/charter1/0712_3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonStudy/charter1/0712_4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonStudy/charter1/0712_5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonStudy/charter1/0714.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonStudy/charter1/0714_1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonStudy/charter1/0714_2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonStudy/charter1/LoadPage.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonStudy/charter1/TiebaSpider.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonStudy/charter1/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonStudy/charter1/cookie.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonStudy/charter1/writeFile.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonStudy/charter2/0715.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonStudy/charter2/0715_1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonStudy/charter2/0723.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonStudy/charter2/0724.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonStudy/charter2/0726.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonStudy/charter2/0730.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonStudy/charter2/0812.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonStudy/charter2/0812_1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonStudy/charter2/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonStudy/charter2/spider.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonStudy/charter2/tencent.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonStudy/charter3/0820.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonStudy/charter3/0822.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonStudy/charter3/0828.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonStudy/charter3/0901.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonStudy/charter3/0901_pytesseract.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonStudy/charter3/0903.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonStudy/charter3/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonStudy/charter3/text2.png" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1VxvJCdhIPXgZZKwDxSQt5LJm0y" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+    <option name="showVisibilityIcons" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunManager">
+    <configuration name="OrderApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="order" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.iki.order.OrderApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="aefcc584-9382-418f-a4e3-9ae5cb9e4447" name="Default Changelist" comment="" />
+      <created>1578207487572</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1578207487572</updated>
+      <workItem from="1578207490276" duration="1023000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="0" y="38" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1578207771530">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="0" y="38" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728@0.0.1366.728" timestamp="1578207771530" />
+    <state x="283" y="0" key="CommitChangelistDialog2" timestamp="1578208758990">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="283" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1578208758990" />
+    <state x="129" y="60" key="DiffContextDialog" timestamp="1578208531010">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="129" y="60" key="DiffContextDialog/0.0.1366.728@0.0.1366.728" timestamp="1578208531010" />
+    <state x="463" y="105" key="FileChooserDialogImpl" timestamp="1578208624446">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="463" y="105" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1578208624446" />
+    <state width="1323" height="179" key="GridCell.Tab.0.bottom" timestamp="1578208759053">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="179" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1578208759053" />
+    <state width="1323" height="179" key="GridCell.Tab.0.center" timestamp="1578208759052">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="179" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1578208759052" />
+    <state width="1323" height="179" key="GridCell.Tab.0.left" timestamp="1578208759051">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="179" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1578208759051" />
+    <state width="1323" height="179" key="GridCell.Tab.0.right" timestamp="1578208759053">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="179" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1578208759053" />
+    <state width="1323" height="179" key="GridCell.Tab.1.bottom" timestamp="1578208759053">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="179" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1578208759053" />
+    <state width="1323" height="179" key="GridCell.Tab.1.center" timestamp="1578208759053">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="179" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1578208759053" />
+    <state width="1323" height="179" key="GridCell.Tab.1.left" timestamp="1578208759053">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="179" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1578208759053" />
+    <state width="1323" height="179" key="GridCell.Tab.1.right" timestamp="1578208759053">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="179" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1578208759053" />
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1578207610145">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1578207610145" />
+  </component>
+</project>
